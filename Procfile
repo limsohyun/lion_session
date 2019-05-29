@@ -1,1 +1,1 @@
-web:gunicorn session11_thumbnail.wsgi --log-file -
+web: gunicorn session11_thumbnail.wsgi --log-file 
